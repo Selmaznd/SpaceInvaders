@@ -1,0 +1,10 @@
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.AssemblyReference.cache
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\obj\x86\Debug\SpaceInvaders.GameForm.resources
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\zinee\Desktop\E3\cours\S1\PROGRAMMATION\PPO\projet\Nouveau dossier\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
